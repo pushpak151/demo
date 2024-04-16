@@ -1,2 +1,3 @@
 # demo
-my first git repo
+My first git repo
+Author-Pushpak kumar
